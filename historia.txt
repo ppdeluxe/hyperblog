@@ -1,1 +1,2 @@
+Se agrega modificación que queremos quitar de staging
 esto es una prueba
