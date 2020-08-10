@@ -1,1 +1,3 @@
-hola esto es una prueba
+Esto son unas pruebas que estamos 
+haciendo con git para aprender a utilizarlo
+y asi en un futuro proximo trabajar en un proyecto real
