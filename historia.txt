@@ -1,2 +1,3 @@
-Se agrega modificación que queremos quitar de staging
-esto es una prueba
+:) Esto es una prueba de rebase :)
+Master 1
+Master 2
